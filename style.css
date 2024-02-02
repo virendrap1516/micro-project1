@@ -1,0 +1,119 @@
+ .flex-container {
+    background-color: rgba(255, 205, 158, 1);
+    border:2px solid lightblue;
+    padding: 50px;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.flex-container > div {
+    margin-left:50px;
+}
+    
+ 
+.D {
+    font-size:30px;
+    font-weight: bold;
+    color:black;
+  }
+    
+ .one {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10;
+    font-size: 30px;
+    color:rgb(64, 60, 60);
+}
+
+.two {
+     font-size:19px;
+     font-family: bold;
+     font-weight:700;
+     font-family:Arial;
+}
+#email {
+    font-family:Arial, Helvetica;
+    font-weight:600;
+    padding: 10px; 
+    border:3px solid black;
+    width: 280px;
+    height: 23px;
+    border-radius: 5px;
+    margin-left:50px;
+    
+
+}
+#submit {
+    background-color: rgb(45, 38, 38);
+    color: aliceblue;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:14px;
+    flex-wrap: wrap;
+    padding:15px;
+    border-radius: 6px;
+    width: 200px;
+    height: 49px;
+}
+
+h2 {
+    
+    padding-left: 80px;
+    font-size:bold;
+}
+
+ .bg-img {
+    mix-blend-mode: darken;
+    width:500px;
+    float:right;
+    margin-top:20px;
+    margin-right:120px;
+}
+
+#spam {
+    margin-left: 80px;
+    color: azure;
+    font-family: arial;   
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+.footer {
+    background-color: rgba(40, 40, 40, 1);
+    /* background-size:cover; */
+    padding:50px;
+
+}
+
+
+.footer > div {
+    margin-left:120px;
+    font-family:Verdana, Tahoma;
+    color:rgb(239, 238, 238);
+    font-size: 16px;
+    background-size: 100%;
+}
+.footer2 > div {
+    background-size: 100%;
+
+}
+
+.ft2 {
+    height: 200px;
+    margin-left: 400px;
+    margin-top: -220px; 
+} 
+     
+
+ p {
+    text-align: right;
+    color:rgb(239, 238, 238);
+    font-family:Verdana, Tahoma ;
+    padding-right: 180px;
+    font-size: 15px;
+    height: 1%;
+    margin-top: 40px;
+
+} 
